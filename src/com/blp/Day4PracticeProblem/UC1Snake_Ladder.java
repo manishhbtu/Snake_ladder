@@ -5,5 +5,6 @@ public class UC1Snake_Ladder {
         int position =0;
         System.out.println("position of the player ="+position);
 
+
     }
 }
